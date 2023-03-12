@@ -1,0 +1,10 @@
+selected,725324.java,71,93,selected,566061.java,143,163
+selected,566061.java,143,163,selected,725324.java,71,93
+selected,967639.java,91,117,selected,2163733.java,10,36
+selected,2163733.java,10,36,selected,967639.java,91,117
+selected,967639.java,91,117,selected,1144005.java,186,212
+selected,1144005.java,186,212,selected,967639.java,91,117
+selected,725324.java,71,93,selected,967639.java,91,117
+selected,967639.java,91,117,selected,725324.java,71,93
+selected,2371472.java,66,93,selected,2163733.java,10,36
+default,47767.java,101,199,default,53604.java,101,211
